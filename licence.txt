@@ -1,0 +1,10 @@
+Copyright (C) 2001 Shattered Reality.
+
+  This software is provided 'as-is', without any express or implied warranty.  In no event will the authors be held liable for any damages arising from the use of this software. You have been granted the ability to view and improve code and will be acknowledged in the credits as a tester.
+
+  This software can be distributed with the following restriction:
+1. The origin of this software must not be misrepresented; you must not claim that you wrote the original software. 
+2. Altered source versions must be plainly marked as such, and must not be misrepresented as being the original software. Notification must be sent to Shattered Reality notifying us of such changes.
+3. This project is the project of Shattered Reality. You may not take it on as your own and attempt to complete it. 
+4. This notice may not be removed or altered from any source distribution.
+ 
